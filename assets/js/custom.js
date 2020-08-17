@@ -4,6 +4,7 @@ $(function () {
     
     "use strict";
 
+    
 /*=========== TABLE OF CONTENTS ===========
 
     01. Isotope Plugin
@@ -340,7 +341,7 @@ $(function () {
 
 
     /*--------------------------------
-        11. Google Map
+        11. Google Maps
     ----------------------------------*/
     var map = null;
     
@@ -373,7 +374,7 @@ $(function () {
     if ($(".contact #map").length !== 0){
 
         $(".contact #map").show();
-        googleMap("map", 29.426311, -98.493362);
+        googleMap("map", 40.712784, -74.005941);
 
     }
 
