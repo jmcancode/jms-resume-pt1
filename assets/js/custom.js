@@ -395,6 +395,16 @@ $(function () {
 
 
     /*--------------------------------
+    12.5 Babel Config
+
+    --------------------------------*/
+    module: {
+        rules: [
+          { test: /\.js$/, exclude: /node_modules/, loader: "babel-loader" }
+        ]
+      }
+
+    /*--------------------------------
         13. Skills
     ----------------------------------*/
    $(".skill").each(function() {
