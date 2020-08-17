@@ -374,7 +374,7 @@ $(function () {
     if ($(".contact #map").length !== 0){
 
         $(".contact #map").show();
-        googleMap("map", 40.712784, -74.005941);
+        googleMap("map", 29.426406, -98.493520);
 
     }
 
