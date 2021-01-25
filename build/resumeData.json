@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "JM",
+    "occupation": "Freelance Web + Mobile Developer",
+    "description": "Let's Work",
+    "image": "profilepic.jpg",
+    "bio": "I am an entrepreneur with a passion for high-quality menswear, menswear education, and JavaScript Development. In the last ten years, I have dedicated myself to small business and local economic development. I work closely with other entrepreneurs, c-level executives, and senior leadership to create unique projects that bring brand awareness and generate revenue. Apart from being a full-time entrepreneur, I'm a husband and father to be living and working in San Antonio, Texas. I love music, menswear, business development, coffee, and a good cigar. When forced indoors, I follow whatever television shows my wife is watching, I am an aspiring product designer, and I spend my free time exploring the latest technology advancements in the web + mobile development world. Lastly, I am optimistic and enjoy problem-solving at any level. I take pride in helping people find connections that add value to their aspirations, business, and lifestyle.",
+    "contactmessage": "Get in touch with me to build your next Web or Mobile App!",
+    "email": "narvaez.jonmichael@gmail.com",
+    "phone": "+1 2104544340",
+    "address": {
+      "street": "110 E. Houston St",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip": "78205"
+    },
+    "website": "https://www.jonmichaelnarvaez.com",
+    "resumedownload": "resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jmcancode",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jm_cancode/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jmcancode",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Texas at San Antonio",
+        "degree": "Bachelor's Degree, Social Science",
+        "graduated": "2009 -2011",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "B-Boy Creative",
+        "title": "Freelance Developer",
+        "years": "December 2019 - Present",
+        "description": "As a freelance web and mobile developer, I work closely with small to large-sized advertising and marketing firms to bring client mock-ups to life. From conception to deployment, I cover the full lifecycle of an application to create a clean, functional, and scalable application. When I began learning to program, I realized that I have a competitive advantage in an e-commerce development role because of my experience on the other end of the spectrum in terms of operations, international vendor communication, and product development. My new knowledge is full-stack development has given me a lethal combination of skills to help my clients maximize their investments and generate revenue online."
+      },
+      {
+        "company": "Style by JM Footwear",
+        "title": "Founder and Design Director",
+        "years": "May 2019 - Present",
+        "description": "As design director, I ensure that all products and experiences are delivered on time, on budget, and to the highest quality standards. In addition to communicating SBJM's creative vision to the design team, and partners, I supervise the entire design process and all-important technical decisions that encompass the design and distribution process."
+      },
+      {
+        "company": "The Royal Guard - Style Agency",
+        "title": "Founder and Master Stylist",
+        "years": "2019 - Present",
+        "description": "As a private wardrobe liaison, I create custom looks that fit my client's personal and professional lifestyle. My business books consist of high-profile individuals, entrepreneurs, executives, doctors, attorneys, and real estate professionals. TRG is a membership-based service where a current active member must recommend applicants."
+      },
+      {
+        "company": "Werkplaats - Elite Business Suites",
+        "title": "Director of Business Development",
+        "years": "2013 - 2017",
+        "description": "As a business development director, I also lead sales and client-relationship management, tracked new markets and emerging trends, recommends new products and services to the business center clients, proposed and developed new strategic partnerships, wrote proposals and plans, and guided long-term objectives to meet business needs and requirements."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Athlete Talk (React JS)",
+        "category": "Hybrid",
+        "image": "athletetalk.jpg",
+        "url": "https://wakeforest.yourathletestalk.com/"
+      },
+      {
+        "title": "DSTRKT.TV (React Native)",
+        "category": "Mobile",
+        "image": "dstrkttv.jpg",
+        "url": "https://expo.io/@stylebyjmsa/projects/dstrkttv"
+      },
+      {
+        "title": "Stuido-139 (React Native)",
+        "category": "Mobile",
+        "image": "studio139.jpg",
+        "url": "https://expo.io/@stylebyjmsa/projects/s139mobile"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "JM is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Randy Smith"
+      },
+      {
+        "text": "Learning with JM has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Antonio Harris"
+      }
+    ]
+  }
+}
