@@ -51,6 +51,12 @@
     ],
     "work": [
       {
+        "company": "J12 Designs",
+        "title": "Senior Developer",
+        "years": "2021 - Present",
+        "description": "As a Senior Developer, I work closely with the Design team to bring unique and creative programable solutions for businesses, high profile individuals, professional athletes, and more. I write clean and scalable code using JavaScript-based frameworks that work across all platforms and operating systems. We create unforgettable experiences for our clients and take pride in quality data-driven software that brings your brand to new heights."
+      },
+      {
         "company": "B-Boy Creative",
         "title": "Freelance Developer",
         "years": "2019 - Present",
@@ -121,18 +127,24 @@
         "category": "Mobile",
         "image": "studio139.jpg",
         "url": "https://expo.io/@stylebyjmsa/projects/s139mobile"
+      },
+      {
+        "title": "Runnit Live",
+        "category": "Hybrid",
+        "image": "dstrkttv.jpg",
+        "url": "https://runnit.live"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
-        "user": "Randy Smith"
+        "text": "Perfection. JM's CRM solution for our business was game changer. It was worth the wait and expense. We would do it over a million times ",
+        "user": "RS, CEO/Founder"
       },
       {
-        "text": "",
-        "user": "Antonio Harris"
+        "text": "JM recommended we take the progressive web app route for our e-commerce store and we've seen a huge increase in sales and online exposure. This young man has a very bright future ahead of him.",
+        "user": "HW - CEO/Owner "
       }
     ]
   }
