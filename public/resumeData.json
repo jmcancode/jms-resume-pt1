@@ -84,11 +84,11 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "Python",
-        "level": "55%"
+        "level": "45%"
       },
       {
         "name": "Git",
@@ -99,22 +99,46 @@
         "level": "85%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Firebase",
+        "level": "65%"
       },
       {
         "name": "React Native",
-        "level": "75%"
+        "level": "85%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
+        "title": "Runnit Live",
+        "category": "Hybrid",
+        "image": "runnit.jpg",
+        "url": "https://runnit.live"
+      },
+      {
         "title": "Athlete Talk (React JS)",
         "category": "Hybrid",
         "image": "athletetalk.jpg",
         "url": "https://wakeforest.yourathletestalk.com/"
+      },
+      {
+        "title": "Rey Diaz Law",
+        "category": "Hybrid",
+        "image": "reydiaz.jpg",
+        "url": "https://optimistic-lovelace-dc2256.netlify.app/sign-in"
+      },
+      {
+        "title": "SBJM Footwear",
+        "category": "Hybrid",
+        "image": "sbjm.jpg",
+        "url": "https://stylebyjm.com"
+      },
+      {
+        "title": "The Royal Guard Style Agency",
+        "category": "Hybrid",
+        "image": "trg.jpg",
+        "url": "https://theroyalguard.club/login"
       },
       {
         "title": "DSTRKT.TV (React Native)",
@@ -127,13 +151,8 @@
         "category": "Mobile",
         "image": "studio139.jpg",
         "url": "https://expo.io/@stylebyjmsa/projects/s139mobile"
-      },
-      {
-        "title": "Runnit Live",
-        "category": "Hybrid",
-        "image": "dstrkttv.jpg",
-        "url": "https://runnit.live"
       }
+     
     ]
   },
   "testimonials": {

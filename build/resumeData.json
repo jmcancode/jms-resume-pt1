@@ -127,18 +127,24 @@
         "category": "Mobile",
         "image": "studio139.jpg",
         "url": "https://expo.io/@stylebyjmsa/projects/s139mobile"
+      },
+      {
+        "title": "Runnit Live",
+        "category": "Hybrid",
+        "image": "dstrkttv.jpg",
+        "url": "https://runnit.live"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
-        "user": "Randy Smith"
+        "text": "Perfection. JM's CRM solution for our business was game changer. It was worth the wait and expense. We would do it over a million times ",
+        "user": "RS, CEO/Founder"
       },
       {
-        "text": "",
-        "user": "Antonio Harris"
+        "text": "JM recommended we take the progressive web app route for our e-commerce store and we've seen a huge increase in sales and online exposure. This young man has a very bright future ahead of him.",
+        "user": "HW - CEO/Owner "
       }
     ]
   }
