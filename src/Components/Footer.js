@@ -24,7 +24,7 @@ const Footer = ({ data }) => {
               Made by{" "}
               <a
                 title="JM"
-                href="http://www.jonmichaelnarvaez.com/"
+                href="http://www.jmcancode.com/"
                 target="_blank"
                 rel="noreferrer"
               >

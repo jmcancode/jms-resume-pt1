@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "JM",
-    "occupation": "Freelance Web + Mobile Developer",
+    "occupation": "Father, Husband, Entrepreneur",
     "description": "Let's Work",
     "image": "profilepic.jpg",
     "bio": "I am an entrepreneur with a passion for high-quality menswear, menswear education, and JavaScript Development. In the last ten years, I have dedicated myself to small business and local economic development. I work closely with other entrepreneurs, c-level executives, and senior leadership to create unique projects that bring brand awareness and generate revenue. Apart from being a full-time entrepreneur, I'm a husband and father to be living and working in San Antonio, Texas. I love music, menswear, business development, coffee, and a good cigar. When forced indoors, I follow whatever television shows my wife is watching, I am an aspiring product designer, and I spend my free time exploring the latest technology advancements in the web + mobile development world. Lastly, I am optimistic and enjoy problem-solving at any level. I take pride in helping people find connections that add value to their aspirations, business, and lifestyle.",
-    "contactmessage": "Get in touch with me to build your next Web or Mobile App!",
+    "contactmessage": "Lets work.",
     "email": "narvaez.jonmichael@gmail.com",
     "phone": "+1 2104544340",
     "address": {
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My professional skill stack",
     "education": [
       {
         "school": "University of Texas at San Antonio",
@@ -83,28 +83,28 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Full Stack Web Development",
+        "level": "89%"
+      },
+      {
+        "name": "Product Design + Development",
         "level": "95%"
       },
       {
-        "name": "Python",
-        "level": "45%"
+        "name": "Business Development",
+        "level": "98%"
       },
       {
-        "name": "Git",
-        "level": "85%"
+        "name": "High Volume Sales",
+        "level": "96%"
       },
       {
-        "name": "JavaScript",
-        "level": "85%"
+        "name": "Customer Retention + Facing",
+        "level": "94%"
       },
       {
-        "name": "Firebase",
-        "level": "65%"
-      },
-      {
-        "name": "React Native",
-        "level": "85%"
+        "name": "Leadership",
+        "level": "90%"
       }
     ]
   },
@@ -158,13 +158,13 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Perfection. JM's CRM solution for our business was game changer. It was worth the wait and expense. We would do it over a million times ",
+        "text": "Perfection. JM's CRM solution for our business was game changer. It was worth the wait and expense.",
         "user": "RS, CEO/Founder"
       },
-      {
-        "text": "JM recommended we take the progressive web app route for our e-commerce store and we've seen a huge increase in sales and online exposure. This young man has a very bright future ahead of him.",
-        "user": "HW - CEO/Owner "
-      }
+      
+       {"text": "I worked with JM a few years ago on a project and he was such a delight to work with. He is extremely knowledgeable in his trade and has a true passion for his work. ",
+        "user": "DFM, Founder/General Partner"}
+      
     ]
   }
 }
