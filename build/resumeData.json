@@ -117,16 +117,10 @@
         "url": "https://runnit.live"
       },
       {
-        "title": "Athlete Talk (React JS)",
+        "title": "Athlete Talk",
         "category": "Hybrid",
         "image": "athletetalk.jpg",
         "url": "https://wakeforest.yourathletestalk.com/"
-      },
-      {
-        "title": "Rey Diaz Law",
-        "category": "Hybrid",
-        "image": "reydiaz.jpg",
-        "url": "https://optimistic-lovelace-dc2256.netlify.app/sign-in"
       },
       {
         "title": "SBJM Footwear",
@@ -141,16 +135,36 @@
         "url": "https://theroyalguard.club/login"
       },
       {
-        "title": "DSTRKT.TV (React Native)",
+        "title": "DSTRKT.TV",
         "category": "Mobile",
         "image": "dstrkttv.jpg",
         "url": "https://expo.io/@stylebyjmsa/projects/dstrkttv"
       },
       {
-        "title": "Stuido-139 (React Native)",
+        "title": "Stuido-139 ",
         "category": "Mobile",
         "image": "studio139.jpg",
         "url": "https://expo.io/@stylebyjmsa/projects/s139mobile"
+      },
+      {
+        "title": "Circulate.io",
+        "category": "Hybrid",
+        "image": "studio139.jpg",
+        "url": "https://www.circulateapp.io"
+      
+      },
+      {
+        "title": "Smouthered",
+        "category": "Hybrid",
+        "image": "studio139.jpg",
+        "url": "https://www.smoutheredsa.com"
+      
+      },
+      {
+        "title": "Shorty Stacks",
+        "category": "Hybrid",
+        "image": "studio139.jpg",
+        "url": "https://www.shortystackssa.com"
       }
      
     ]
