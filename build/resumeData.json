@@ -4,7 +4,7 @@
     "occupation": "Father, Husband, Entrepreneur",
     "description": "Let's Work",
     "image": "profilepic.jpg",
-    "bio": "I am an entrepreneur with a passion for high-quality menswear, menswear education, and JavaScript Development. In the last ten years, I have dedicated myself to small business and local economic development. I work closely with other entrepreneurs, c-level executives, and senior leadership to create unique projects that bring brand awareness and generate revenue. Apart from being a full-time entrepreneur, I'm a husband and father living and working in San Antonio, Texas. I love music, menswear, business development, coffee, and a good cigar. When forced indoors, I follow whatever television shows my wife is watching, I am an aspiring product designer, and I spend my free time exploring the latest technology advancements in the web + mobile development world. Lastly, I am optimistic and enjoy problem-solving at any level. I take pride in helping people find connections that add value to their aspirations, business, and lifestyle.",
+    "bio": "I am an problem solver with a passion for high-quality menswear, menswear education, and React/React Native Development. In the last ten years, I have dedicated myself to small business and local economic development. I work closely with other entrepreneurs, c-level executives, and senior leadership to create unique projects that bring brand awareness and generate revenue. Apart from being a full-time entrepreneur, I'm a husband and father living and working in San Antonio, Texas. I love music, menswear, business development, coffee, and a good cigar. When forced indoors, I follow whatever television shows my wife is watching, I am an aspiring product designer, and I spend my free time exploring the latest technology advancements in the web + mobile development world. Lastly, I am optimistic and enjoy problem-solving at any level. I take pride in helping people find connections that add value to their aspirations, business, and lifestyle.",
     "contactmessage": "Lets work.",
     "email": "narvaez.jonmichael@gmail.com",
     "phone": "+1 2104544340",
@@ -113,57 +113,57 @@
       {
         "title": "Runnit Live",
         "category": "Hybrid",
-        "image": "runnit.jpg",
+        "image": "runnit.jpeg",
         "url": "https://runnit.live"
       },
       {
         "title": "Athlete Talk",
         "category": "Hybrid",
-        "image": "athletetalk.jpg",
+        "image": "page-2.jpeg",
         "url": "https://wakeforest.yourathletestalk.com/"
       },
       {
         "title": "SBJM Footwear",
         "category": "Hybrid",
-        "image": "sbjm.jpg",
+        "image": "page-3.jpeg",
         "url": "https://stylebyjm.com"
       },
       {
         "title": "The Royal Guard Style Agency",
         "category": "Hybrid",
-        "image": "trg.jpg",
+        "image": "page-4.jpeg",
         "url": "https://theroyalguard.club/login"
       },
       {
         "title": "DSTRKT.TV",
         "category": "Mobile",
-        "image": "dstrkttv.jpg",
+        "image": "page-5.jpeg",
         "url": "https://expo.io/@stylebyjmsa/projects/dstrkttv"
       },
       {
         "title": "Stuido-139 ",
         "category": "Mobile",
-        "image": "studio139.jpg",
+        "image": "page-6.jpeg",
         "url": "https://expo.io/@stylebyjmsa/projects/s139mobile"
       },
       {
         "title": "Circulate.io",
         "category": "Hybrid",
-        "image": "studio139.jpg",
+        "image": "page-7.jpeg",
         "url": "https://www.circulateapp.io"
       
       },
       {
         "title": "Smouthered",
         "category": "Hybrid",
-        "image": "studio139.jpg",
+        "image": "page-8.jpeg",
         "url": "https://www.smoutheredsa.com"
       
       },
       {
         "title": "Shorty Stacks",
         "category": "Hybrid",
-        "image": "studio139.jpg",
+        "image": "page-9.jpeg",
         "url": "https://www.shortystackssa.com"
       }
      
