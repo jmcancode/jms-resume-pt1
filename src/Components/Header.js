@@ -69,7 +69,7 @@ const Header = ({ data }) => {
               {name ? `Hey, I'm ${name}.` : null}
             </TypeWriter>
           </h1>
-          <h5>
+          <h5 style={{backgroundColor: "rgb(255,255,255,0.4)", borderRadius: "15px"}}>
             Currently based in {city}. <span>{occupation}</span>. {description}.
           </h5>
           <hr />
